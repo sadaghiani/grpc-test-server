@@ -1,7 +1,7 @@
 <img src="https://grpc.io/img/logos/grpc-icon-color.png" width="300" height="300">
 
 # sampleGrpcServer
- sample binary grpc server for client test 
+ sample executable (binary & exe) grpc server for client test 
  
 ### Get start
 
@@ -31,5 +31,6 @@ run on localhost `0.0.0.0:PORT`
 | text | text | string
 | sumRequest | firstNumber & secondNumber | int
 | sumResponse | result  | int
+</br>
 
 Thank you 🌸

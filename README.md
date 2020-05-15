@@ -1,8 +1,8 @@
+![drawing](https://grpc.io/img/logos/grpc-icon-color.png){:height="36px" width="36px"}.
+
 # sampleGrpcServer
  sample binary grpc server for client test 
  
- ![img](https://grpc.io/img/logos/grpc-icon-color.png){width=250px}
-
 ### Get start
 ```sh
 $ ./main -port [your port]

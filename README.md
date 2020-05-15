@@ -4,8 +4,14 @@
  sample binary grpc server for client test 
  
 ### Get start
+
+linux : 
 ```sh
 $ ./main -port [your port]
+```
+windows : 
+```sh
+$ main -port [your port]
 ```
 run on localhost `0.0.0.0:PORT`
 
